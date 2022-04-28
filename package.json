@@ -1,0 +1,32 @@
+{
+  "name": "grid6",
+  "version": "1.0.0",
+  "description": "Initial setup of the project.  Created with Expesss and Express-Handlebars.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigomx9/grid6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigomx9/grid6/issues"
+  },
+  "homepage": "https://github.com/indigomx9/grid6#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+
+
+
